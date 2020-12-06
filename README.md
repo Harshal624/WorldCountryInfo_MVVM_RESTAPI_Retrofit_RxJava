@@ -1,5 +1,3 @@
-# WorldCountryInfo_MVVM_RESTAPI_Retrofit_RxJava
-
 
 <h1>An android app which provides information of 250+ countries all over the world.</h1>
 
