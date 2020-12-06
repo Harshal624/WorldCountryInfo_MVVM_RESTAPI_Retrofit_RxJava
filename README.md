@@ -10,6 +10,7 @@ This app is a fun-project built to demonstrate MVVM architecture with REST API (
   <li>LiveData and ViewModels</li>
   <li>RxJava and RxAndroid</li>
   <li>Picasso</li>
+  <li>View binding</li>
   
 </ul>  
 
